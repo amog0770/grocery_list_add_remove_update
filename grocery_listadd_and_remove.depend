@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690220268 source:c:\users\admin\onedrive\desktop\vowtech c++\grocery_listadd_and_remove\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
